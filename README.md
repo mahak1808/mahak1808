@@ -298,14 +298,13 @@ A content-based movie recommendation system built with Python.
 - 🚀 AI + Software + Automation
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahak1808&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak1808&layout=compact&hide_border=true&theme=transparent" height="180" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 </div>
 
