@@ -1,185 +1,369 @@
-# Hi, I'm Mahak Kaur Chhabra
+<!-- ===================== HEADER ===================== -->
 
-**Frontend Lead & Software Developer Associate | React & React Native | AI & Automation**
+<div align="center">
 
-### About Me
+# 👋 Hi, I'm Mahak Kaur Chhabra
 
-I'm a **Software Developer Associate and Frontend Lead** passionate about building intuitive, scalable products and solving real-world problems through technology.
+### Frontend Lead · Software Developer · AI & Automation Enthusiast
 
-I work primarily with **React, React Native, JavaScript, APIs, and modern automation tools**, with experience taking products from requirements and UI implementation to API integration, deployment, and delivery.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+products+that+solve+real+problems.;React+%7C+React+Native+%7C+JavaScript;AI+%7C+LLMs+%7C+RAG+%7C+n8n;Frontend+Leadership+%7C+Mentoring+%7C+Product+Development" alt="Typing SVG" />
+</p>
 
-Beyond development, I enjoy **leading frontend teams, mentoring developers, improving workflows, and exploring AI-powered solutions** that make products and teams more efficient.
+<p>
+  <a href="https://github.com/mahak1808">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahak1808/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[mchhabra1808@gmail.com](mailto:mchhabra1808@gmail.com)">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mahak1808.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=mahak1808&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 
-### 🚀 Highlights
-
-* Led the frontend team for **Farewell**, a cross-platform logistics app with live rider tracking, maps, booking flows, and parcel delivery integrations.
-* Built the **Bid Management System (BMS) from scratch**, replacing manual Excel-based workflows and improving task management by **60%+**.
-* Built a company-wide **HRMS** used by employees for attendance, leave tracking, payroll, communication, and more.
-* Developed **Veritas**, an AI-driven meeting transcription and response tool designed to surface contextual insights during client calls.
-* Mentored **4 interns & Software Developer Associates** across multiple real-world projects.
-* Automated social media publishing across **LinkedIn, Instagram, and Facebook** using **n8n**, saving hours of manual work every week.
-* Built a **Retrieval-Augmented Generation (RAG)** solution for internal knowledge access.
-* Delivered Farewell with minimal bugs and achieved **App Store approval within 2–3 days**.
-
----
-
-### 🛠 Tech Stack
-
-**Languages**
-
-`JavaScript` `Python` `C++` `R`
-
-**Frontend**
-
-`React` `React Native` `HTML` `CSS`
-
-**Backend & APIs**
-
-`Supabase` `Firebase` `REST APIs` `Authentication Systems`
-
-**AI & Automation**
-
-`n8n` `LLMs` `RAG` `AI Automation` `API Integrations`
-
-**Tools & DevOps**
-
-`Git` `GitHub` `Docker` `Microsoft Portal` `Cursor`
-
-**Cloud & Services**
-
-`Firebase` `Google Maps APIs` `Google Drive` `Google Sheets` `Gmail` `Telegram`
+</div>
 
 ---
 
-### 💼 Professional Experience
+## 👩‍💻 About Me
 
-#### Software Developer Associate — Frontend Lead & Team Mentor @ Mechlin Technologies
+I'm a **Software Developer Associate & Frontend Lead** who enjoys turning ideas into real, usable products.
 
-*May 2025 – Present*
+My work sits at the intersection of **frontend engineering, product development, AI, and automation**. I've worked on cross-platform applications, internal business systems, AI-powered tools, workflow automation, and client-facing products.
 
-* Led the **frontend team** in delivering **Farewell**, a cross-platform logistics application built with React Native, Firebase, and Google Maps APIs.
-* Implemented **live rider tracking, location polling, map-based booking flows, notifications, and API integrations** for parcel deliveries through UPS, USPS, and FedEx.
-* Delivered Farewell with minimal bugs and helped achieve **App Store approval within 2–3 days**.
-* Designed and developed the **Bid Management System (BMS)** from scratch, replacing manual Excel workflows and improving task management by **60%+**.
-* Built the **Human Resource Management System (HRMS)**, a company-wide platform covering attendance, leave tracking, payroll, communication, and other employee workflows.
-* Developed **Veritas**, an AI-powered meeting transcription and response tool that provides contextual insights during client calls.
-* Managed **ClientSphere**, handling requirements gathering, cross-team coordination, and PR reviews; the platform was adopted by **two key clients**.
-* Trained and mentored **4 interns and SDAs**, guiding them through real project work across BMS, HRMS, and ClientSphere.
-* Balanced multiple priorities by delivering Farewell while coordinating onboarding and feature updates across several internal and client-facing products.
-* Automated social media publishing across **LinkedIn, Instagram, and Facebook** using n8n, reducing repetitive manual work.
-* Integrated **API-based authentication and Microsoft services** to strengthen application security and data access.
-* Developed a **Retrieval-Augmented Generation (RAG)** solution for internal knowledge access.
-* Contributed as a **React Developer** to the company's QA product, building UI components and optimizing performance.
-* Used **Docker** for containerized deployments and **Git/GitHub** for version control.
+I enjoy taking ownership beyond just writing code — from **understanding requirements and designing interfaces to API integration, deployment, mentoring developers, and shipping products.**
+
+```text
+💻 Frontend Development     → React · React Native · JavaScript
+🤖 AI & Automation          → LLMs · RAG · n8n · AI Workflows
+☁️ Platforms & APIs         → Firebase · Supabase · Google APIs
+🧰 Engineering              → Git · GitHub · Docker · API Integration
+👩‍💻 Leadership               → Frontend Leadership · Mentoring · PR Reviews
+```
 
 ---
 
-### 📌 Featured Projects
+## 🚀 What I've Built
 
-#### 🚚 Farewell — Cross-Platform Logistics App
+<div align="center">
 
-**React Native · Firebase · Google Maps APIs · REST APIs**
+|  🚚 Logistics | 📊 Business Systems |  🤖 AI & Automation  |
+| :-----------: | :-----------------: | :------------------: |
+|  **Farewell** |       **BMS**       |      **Veritas**     |
+|  React Native |   React · Supabase  |       AI · LLMs      |
+| Live Tracking | Workflow Automation | Meeting Intelligence |
 
-* Led the frontend development team for a logistics application serving US customers.
-* Built booking flows for **instant and scheduled parcel deliveries**.
-* Integrated **UPS, USPS, and FedEx** delivery workflows.
-* Implemented **live rider tracking, location polling, and map-based interactions**.
-* Worked extensively on API integrations, notifications, barcode scanning, and UI development.
-* Successfully shipped the application with minimal bugs and achieved **App Store approval within 2–3 days**.
+</div>
 
-#### 📊 Bid Management System — BMS
+### 🚚 Farewell — Logistics App
 
-**React · Supabase · APIs**
+A cross-platform logistics application serving US customers with parcel delivery workflows.
 
-* Designed and built the system completely from scratch.
-* Replaced manual Excel-based bid management workflows.
-* Added filtering, status management, date-based workflows, and data export capabilities.
-* Improved task management efficiency by **60%+**.
-* Currently used by **10+ team members**.
+**Highlights**
 
-#### 👥 Human Resource Management System — HRMS
+* 📦 Instant & scheduled parcel deliveries
+* 🗺️ Google Maps-based booking flows
+* 📍 Live rider tracking & location polling
+* 🔔 Notifications & API integrations
+* 📱 React Native + Firebase
+* 🚛 UPS, USPS & FedEx workflows
+* 🚀 App Store approval within **2–3 days**
 
-**React · Supabase · Authentication**
-
-* Built a company-wide HR platform used by employees.
-* Covered workflows including **attendance, leave tracking, payroll, communication, and employee management**.
-* Implemented authentication and role-based access across the application.
-* Developed and maintained the platform independently over an extended development cycle.
-
-#### 🤖 Veritas — AI Meeting Assistant
-
-**AI · LLMs · APIs**
-
-* Built an AI-driven meeting transcription and response tool.
-* Designed to provide **instant contextual insights during client calls**.
-* Focused on using AI to improve the quality and speed of client interactions.
-
-#### 🧠 AI Automated Personal Assistant
-
-**n8n · LLMs · Google APIs · Telegram**
-
-* Developed a modular AI assistant capable of automating everyday tasks.
-* Integrated **Google Sheets, Google Drive, Gmail, Calendar, and Telegram** through APIs.
-* Designed reusable automation modules for scalability and productivity.
-
-#### 🎬 Movie Recommendation System
-
-**Python · Pandas · NumPy · Streamlit · Hugging Face Spaces**
-
-* Built a **content-based movie recommendation system** using Python.
-* Processed movie data using Pandas and NumPy.
-* Created an interactive Streamlit interface.
-* Deployed the application on **Hugging Face Spaces** for public accessibility.
+> **Role:** Frontend Lead
 
 ---
 
-### 🏆 Achievements & Certifications
+### 📊 Bid Management System — BMS
 
-* ⭐ **5 Stars in C++** on HackerRank
-* 🥇 **Top Performer** of my batch
-* 🎓 **GATE CS 2024 — AIR 14161**
-* 🌎 **IELTS — 7.5 Bands**
-* 📊 Samatrix certifications in **R, Data Analysis, Statistics, and Introduction to AI**
-* 🤖 NPTEL Certificate in **Deep Learning**
-* 💻 NPTEL Certificate in **Computer Architecture**
+A business management platform built from scratch to replace manual Excel-based workflows.
 
----
+**Highlights**
 
-### 🎓 Education
+* ⚡ Improved task management by **60%+**
+* 📋 Replaced manual spreadsheet workflows
+* 🔎 Filtering & status management
+* 📅 Date-based workflows
+* 📤 Data export functionality
+* 👥 Used by **10+ team members**
 
-**BTech — Computer Science & Engineering + AI/ML**
-Career Point University, Kota
-**2021 – 2025 | CGPA: 9.93/10**
+> **Role:** Developer · Product Owner
 
 ---
 
-### 🌱 Currently Exploring
+### 👥 Human Resource Management System — HRMS
 
-* AI-powered developer tools
-* LLM applications & RAG
-* Workflow automation with n8n
-* Scalable React & React Native applications
-* Full-stack development
-* Building products that combine **AI + software + automation**
+A company-wide HR platform used by employees for internal workflows.
 
----
+**Includes**
 
-### 🌐 Connect With Me
+`Attendance` · `Leave Tracking` · `Payroll` · `Communication` · `Employee Management`
 
-📧 **Email:** [mchhabra1808@gmail.com](mailto:mchhabra1808@gmail.com)
-💻 **GitHub:** [Add your GitHub URL]
-🌐 **Portfolio:** [Add your Portfolio URL]
+> **Role:** Developer
 
 ---
 
-### 📊 GitHub Stats
+### 🤖 Veritas — AI Meeting Assistant
 
-![Mahak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
+An AI-driven meeting transcription and response tool designed to surface **contextual insights during client calls**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent)
+**Focus**
 
+`AI` · `LLMs` · `Meeting Intelligence` · `Contextual Insights`
+
+---
+
+### 🧠 AI Automated Personal Assistant
+
+A modular AI assistant built with **n8n and LLMs** to automate everyday tasks.
+
+**Integrations**
+
+`Google Sheets` · `Google Drive` · `Gmail` · `Calendar` · `Telegram`
+
+Designed with reusable automation modules for productivity and scalability.
+
+---
+
+### 🎬 Movie Recommendation System
+
+A content-based movie recommendation system built with Python.
+
+**Stack**
+
+`Python` · `Pandas` · `NumPy` · `Streamlit` · `Hugging Face Spaces`
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## ⚙️ Backend, Database & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Authentication-6C47FF?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
+
+## 🤖 AI, LLMs & Automation
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Automation-7B61FF?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
+
+## 📊 Data & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+## 🧰 Tools & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
+## ☁️ Platforms & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+### Software Developer Associate - Frontend Lead & Team Mentor
+
+**Mechlin Technologies · May 2025 - Present**
+
+* 👩‍💻 Led frontend development for **Farewell**, a React Native logistics application.
+* 📍 Implemented live tracking, location polling and map-based booking flows.
+* 📦 Integrated parcel delivery workflows involving UPS, USPS and FedEx.
+* 📊 Built **BMS from scratch**, improving task management by **60%+**.
+* 👥 Built and maintained the company-wide **HRMS**.
+* 🤖 Developed **Veritas**, an AI-driven meeting transcription and response tool.
+* 🤝 Managed **ClientSphere**, including requirements gathering, coordination and PR reviews.
+* 🧑‍🏫 Mentored **6 interns & SDAs** across real-world projects.
+* ⚡ Automated social media publishing across LinkedIn, Instagram and Facebook using **n8n**.
+* 🔐 Integrated API-based authentication and Microsoft services.
+* 🧠 Developed a **RAG solution** for internal knowledge access.
+* 🐳 Used Docker for containerized deployment.
+* 🔀 Worked with Git/GitHub for version control and collaboration.
+
+---
+
+# 📈 Impact
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/60%25%2B-BMS%20Efficiency%20Improvement-6C63FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/10%2B-BMS%20Users-6C63FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/6-Developers%20Mentored-6C63FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/2-Clients%20Adopted%20ClientSphere-6C63FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/2%E2%80%933%20Days-App%20Store%20Approval-6C63FF?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🏅 **Top Performer of My Batch**
+
+⭐ **5 Stars in C++ — HackerRank**
+
+🎓 **GATE CS 2024 — AIR 14161**
+
+🌎 **IELTS — 7.5 Bands**
+
+🤖 **NPTEL — Deep Learning**
+
+💻 **NPTEL — Computer Architecture**
+
+📊 **Samatrix — R, Data Analysis, Statistics & Intro to AI**
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+### BTech — Computer Science & Engineering + AI/ML
+
+**Career Point University, Kota**
+
+`2021 – 2025`
+
+### ⭐ CGPA: 9.93 / 10
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 AI-powered developer tools
+- 🧠 LLM applications & RAG
+- ⚡ Workflow automation with n8n
+- 📱 Scalable React & React Native applications
+- 🌐 Full-stack development
+- 🚀 AI + Software + Automation
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahak1808&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak1808&layout=compact&hide_border=true&theme=transparent" height="180" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mahak1808&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mahak1808/mahak1808/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **building interesting products, collaborating on projects, and exploring opportunities in frontend engineering, AI and automation.**
+
+<br>
+
+<a href="mailto:[mchhabra1808@gmail.com](mailto:mchhabra1808@gmail.com)">
+<img src="https://img.shields.io/badge/Email-mchhabra1808%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mahak1808">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://mahak1808.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+**"Build. Learn. Automate. Repeat."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+
+</div>
 
 <!--
 **mahak1808/mahak1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
